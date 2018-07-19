@@ -1,0 +1,6 @@
+Please follow this link:
+
+https://devcenter.heroku.com/articles/heroku-redis#using-the-cli
+
+Reference:
+https://github.com/xetorthio/jedis
