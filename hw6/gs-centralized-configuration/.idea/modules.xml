@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/configuration-client/configuration-client.iml" filepath="$PROJECT_DIR$/configuration-client/configuration-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configuration-service/configuration-service.iml" filepath="$PROJECT_DIR$/configuration-service/configuration-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gs-centralized-configuration.iml" filepath="$PROJECT_DIR$/gs-centralized-configuration.iml" />
+    </modules>
+  </component>
+</project>
