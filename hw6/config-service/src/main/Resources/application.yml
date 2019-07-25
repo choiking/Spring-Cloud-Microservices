@@ -14,4 +14,4 @@ spring:
     config:
       server:
         git:
-          uri: file:///E:/git/SpringCloudCourse/Course6/settings
+          uri: file:///Users/nanshengtu/Desktop/setting

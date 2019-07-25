@@ -11,7 +11,7 @@ management.endpoints.web.base-path: /
 
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/springcloud
+    url: jdbc:postgresql://localhost:5433/springcloud
     username: postgres
     password: xcode
   jpa:
